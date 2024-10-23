@@ -6,7 +6,7 @@ This project analyzes data related to plant species that are threatened worldwid
 ## ⚙️ Technologies
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn
-- **Data Source**: IUCN Red List API
+- **Data Source**: IUCN Red List API "https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/plants.csv"
 
 ## 🛠️ Installation
  - Clone the repository:
