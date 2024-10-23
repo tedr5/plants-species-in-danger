@@ -27,8 +27,6 @@ This project analyzes data related to plant species that are threatened worldwid
 - **Data Processing**: Cleans and preprocesses plant species data for analysis.
 - **Exploratory Data Analysis**: Generates key insights using visualizations.
 - **Classification Model**: Predicts the threat level of plant species based on key features using machine learning.
-- **Data Export**: Saves the cleaned and processed data for future use.
-
 
 ## 📊 Data Structures
 - Utilizes Pandas DataFrames for organizing and analyzing species data, facilitating manipulation and statistical analysis.
