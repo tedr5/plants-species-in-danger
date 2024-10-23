@@ -6,7 +6,8 @@ This project analyzes data related to plant species that are threatened worldwid
 ## ⚙️ Technologies
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn
-- **Data Source**: International Union for Conservation of Nature (IUCN) Red list of Threatened Species in 2020 https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/plants.csv
+- **Data Source**: International Union for Conservation of Nature (IUCN) Red list of Threatened Species in 2020
+   https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/plants.csv
 
 ## 🛠️ Installation
  - Clone the repository:
