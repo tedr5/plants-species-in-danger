@@ -1,1 +1,33 @@
-# plants-species-in-danger
+# Plants Threatened Species Analysis
+
+## 📖 Description
+This project analyzes data related to plant species that are threatened worldwide, focusing on key insights and trends using machine learning techniques and data visualization.
+
+## ⚙️ Technologies
+- **Programming Language**: Python
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn
+- **Data Source**: IUCN Red List API
+
+## 🛠️ Installation
+ - Clone the repository:
+   ```bash
+   git clone https://github.com/tedr5/plants-species-in-danger.git
+   ```
+ - Install the required Python libraries:
+   ```bash
+   pip install pandas numpy matplotlib scikit-learn
+   ```
+- Run the Jupyter notebook:
+  ```bash
+  jupyter notebook PlantsThreatenedSpecies.ipynb
+  ```
+## 🚀 Features
+
+- **Data Processing**: Cleans and preprocesses plant species data for analysis.
+- **Exploratory Data Analysis**: Generates key insights using visualizations.
+- **Classification Model**: Predicts the threat level of plant species based on key features using machine learning.
+- **Data Export**: Saves the cleaned and processed data for future use.
+
+
+## 📊 Data Structures
+- Utilizes Pandas DataFrames for organizing and analyzing species data, facilitating manipulation and statistical analysis.
