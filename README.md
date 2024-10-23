@@ -18,10 +18,6 @@ This project analyzes data related to plant species that are threatened worldwid
    ```bash
    pip install pandas numpy matplotlib scikit-learn
    ```
-- Run the Jupyter notebook:
-  ```bash
-  jupyter notebook PlantsThreatenedSpecies.ipynb
-  ```
 ## 🚀 Features
 
 - **Data Processing**: Cleans and preprocesses plant species data for analysis.
